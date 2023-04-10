@@ -18,6 +18,10 @@ Here are some ideas to get you started:
   <img src=https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif width="100"/>
 </div>
 
+<div align="center">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramirezStefano&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+</div>
+
 <table>
 
 <tr>
