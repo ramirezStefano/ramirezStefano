@@ -28,15 +28,15 @@ Here are some ideas to get you started:
 ---
 
 <div align="left">
-- 🔭 I’m currently working on a React web app.
-<br>
-- 👯 I’m looking to collaborate on open source projects.
-<br>
-- 📫 How to reach me: ramirez.stefano@gmail.com
-<br>
-- 😄 Pronouns: he/him
-<br>
-- ⚡ Fun fact: I play electric bass and love cooking!
+  - 🔭 I’m currently working on a React web app.
+  <br>
+  - 👯 I’m looking to collaborate on open source projects.
+  <br>
+  - 📫 How to reach me: ramirez.stefano@gmail.com
+  <br>
+  - 😄 Pronouns: he/him
+  <br>
+  - ⚡ Fun fact: I play electric bass and love cooking!
 </div>
 
 ---
@@ -46,9 +46,9 @@ Here are some ideas to get you started:
 
 |                      [ ![ GitHub Streak ](https://github-readme-streak-stats.herokuapp.com?user=ramirezStefano&theme=dark&hide_border=true&mode=weekly) ](https://git.io/streak-stats)                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|                                      ![ Stefano's GitHub stats ](https://github-readme-stats.vercel.app/api?username=ramirezstefano&show_icons=true&theme=highcontrast)                                      |
+|                                                       ![ Stefano's GitHub stats ](https://github-readme-stats.vercel.app/api?username=ramirezstefano)                                                        |
 | [ ![ Stefano's github activity graph ](https://github-readme-activity-graph.cyclic.app/graph?username=ramirezstefano&theme=github-compact) ](https://github.com/ramirezstefano/github-readme-activity-graph) |
-|                           [ ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezStefano) ](https://github.com/ramriezStefano/github-readme-stats)                           |
+|                            [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezstefano)](https://github.com/ramirezstefano/github-readme-stats))                             |
 
 <!-- gif footer -->
 <div id="footer" align="center">
