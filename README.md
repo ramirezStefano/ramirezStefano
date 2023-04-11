@@ -18,17 +18,11 @@ Here are some ideas to get you started:
   <img src=https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif width="100"/>
 </div>
 
-### Contributions & Streaks
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramirezStefano&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-
-### Stats
-
-![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezstefano&show_icons=true&theme=highcontrast)
-
-### Language Use
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezStefano)](https://github.com/ramriezStefano/github-readme-stats)
+|                      [ ![ GitHub Streak ](https://github-readme-streak-stats.herokuapp.com?user=ramirezStefano&theme=dark&hide_border=true&mode=weekly) ](https://git.io/streak-stats)                       |
+| :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                      ![ Stefano's GitHub stats ](https://github-readme-stats.vercel.app/api?username=ramirezstefano&show_icons=true&theme=highcontrast)                                      |
+| [ ![ Stefano's github activity graph ](https://github-readme-activity-graph.cyclic.app/graph?username=ramirezstefano&theme=github-compact) ](https://github.com/ramirezstefano/github-readme-activity-graph) |
+|                           [ ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezStefano) ](https://github.com/ramriezStefano/github-readme-stats)                           |
 
 <div id="footer" align="center">
   <img src=https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif width="100"/>
