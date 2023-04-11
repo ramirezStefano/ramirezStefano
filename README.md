@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 
 ![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezstefano&show_icons=true&theme=highcontrast)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezStefano)](https://github.com/ramriezStefano/github-readme-stats)
+<div align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezStefano)](https://github.com/ramriezStefano/github-readme-stats)
+</div>
 
 <div id="footer" align="center">
   <img src=https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif width="100"/>
