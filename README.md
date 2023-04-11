@@ -14,9 +14,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!-- gif header -->
 <div id="header" align="center">
   <img src=https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif width="100"/>
 </div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/stefano-ramirez-novello/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+  <a>
+<div>
+
+- 🔭 I’m currently working on a React web app.
+- 👯 I’m looking to collaborate on open source projects.
+- 📫 How to reach me: ramirez.stefano@gmail.com
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I play electric bass and love cooking!
+
+<!-- table with snippets -->
+<!-- on .md tables: https://www.tablesgenerator.com/markdown_tables# -->
 
 |                      [ ![ GitHub Streak ](https://github-readme-streak-stats.herokuapp.com?user=ramirezStefano&theme=dark&hide_border=true&mode=weekly) ](https://git.io/streak-stats)                       |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -24,6 +40,7 @@ Here are some ideas to get you started:
 | [ ![ Stefano's github activity graph ](https://github-readme-activity-graph.cyclic.app/graph?username=ramirezstefano&theme=github-compact) ](https://github.com/ramirezstefano/github-readme-activity-graph) |
 |                           [ ![ Top Langs ](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezStefano) ](https://github.com/ramriezStefano/github-readme-stats)                           |
 
+<!-- gif footer -->
 <div id="footer" align="center">
   <img src=https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif width="100"/>
 </div>
