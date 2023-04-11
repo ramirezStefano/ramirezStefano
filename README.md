@@ -22,14 +22,24 @@ Here are some ideas to get you started:
 <div align="center">
   <a href="https://www.linkedin.com/in/stefano-ramirez-novello/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
-  <a>
+  </a>
 <div>
 
+---
+
+<div align="left">
 - 🔭 I’m currently working on a React web app.
+<br>
 - 👯 I’m looking to collaborate on open source projects.
+<br>
 - 📫 How to reach me: ramirez.stefano@gmail.com
+<br>
 - 😄 Pronouns: he/him
+<br>
 - ⚡ Fun fact: I play electric bass and love cooking!
+</div>
+
+---
 
 <!-- table with snippets -->
 <!-- on .md tables: https://www.tablesgenerator.com/markdown_tables# -->
