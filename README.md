@@ -18,15 +18,15 @@ Here are some ideas to get you started:
   <img src=https://media.giphy.com/media/HwBlFQZFcAoUcPHZdX/giphy.gif width="100"/>
 </div>
 
-### Streak Info
+### Contributions & Streaks
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ramirezStefano&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
-### Some Stats
+### Stats
 
 ![Stefano's GitHub stats](https://github-readme-stats.vercel.app/api?username=ramirezstefano&show_icons=true&theme=highcontrast)
 
-### Languages Use
+### Language Use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ramirezStefano)](https://github.com/ramriezStefano/github-readme-stats)
 
