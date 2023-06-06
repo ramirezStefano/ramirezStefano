@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   <br>
   - 😄 Pronouns: he/him
   <br>
-  - ⚡ Fun fact: I play electric bass and love cooking!
+  - ⚡ Fun fact: I play electric bass and love cooking and my profile pic is MidJourney generated!
 </div>
 
 ---
